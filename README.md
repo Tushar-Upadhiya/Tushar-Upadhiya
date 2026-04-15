@@ -1,5 +1,5 @@
 # 💫 About Me:
-Profile: 2nd Year Electronics and Computer Student | Arch Linux Power User.<br>Focus: ROS2, C++ Optimization, and Autonomous Systems.<br>Current Projects: 3-DOF Robotic Arm (Inverse Kinematics) & Differential Drive Chassis.<br>Toolkit: C++, Python, ARM Assembly, ESP32, Gazebo.<br>Vibe: Dark, minimalist, and disciplined.<br>Sections to include: Technical Skills (Icons), Project Roadmap, and GitHub Stats.<br>Bio Slogan: "Building autonomous systems from the kernel up."
+Profile: 2nd Year Electronics and Computer Student | Arch Linux User.<br>Focus: ROS2, C++ Optimization, and Autonomous Systems.<br>Current Projects: 3-DOF Robotic Arm (Inverse Kinematics) & Differential Drive Chassis.<br>Toolkit: C++, Python, ARM Assembly, ESP32, Gazebo.<br>Vibe: Dark, minimalist, and disciplined.<br>Sections to include: Technical Skills (Icons), Project Roadmap, and GitHub Stats.<br>Bio Slogan: "Building autonomous systems from the kernel up."
 
 
 ## 🌐 Socials:
