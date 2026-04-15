@@ -10,7 +10,5 @@ Profile: 2nd Year Electronics and Computer Student | Arch Linux User.<br>Focus: 
 ![](https://streak-stats.demolab.com/?user=Tushar-Upadhiya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tushar-Upadhiya&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Tushar-Upadhiya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
